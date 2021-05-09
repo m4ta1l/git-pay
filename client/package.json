@@ -20,7 +20,7 @@
     "git_pay_api": "file:./../api-specs/git-pay-api/generated_client"
   },
   "devDependencies": {
-    "@vue/cli-plugin-babel": "^4.3.0",
+    "@vue/cli-plugin-babel": "^4.5.13",
     "@vue/cli-plugin-eslint": "^4.3.0",
     "@vue/cli-service": "^4.3.1",
     "babel-eslint": "^10.1.0",
