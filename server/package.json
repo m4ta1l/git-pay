@@ -26,7 +26,7 @@
     "w1_p2_p_api": "file:./../api-specs/w1/generated"
   },
   "devDependencies": {
-    "eslint": "^7.0.0",
+    "eslint": "^7.28.0",
     "node-env-run": "^3.0.2",
     "nodemon": "^2.0.4"
   }
